@@ -13,9 +13,11 @@ project/
         Makefile
     presentations/
     docs/ # if documentation website is desired, otherwise notes is fine
-  py/
+  py/ # for python code, not notebooks
     figs/
   m/
+    figs/
+  notebooks/
     figs/
   lib/ # for project specific functions
     m/
