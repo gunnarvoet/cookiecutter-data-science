@@ -1,0 +1,25 @@
+project/
+  data/
+    raw/
+    proc/
+  doc/
+    notes/
+    papers/
+      # use another cookiecutter to create paper structure
+      paper1/
+        figs/
+        py/
+        m/
+        Makefile
+    presentations/
+    docs/ # if documentation website is desired, otherwise notes is fine
+  py/
+    figs/
+  m/
+    figs/
+  lib/ # for project specific functions
+    m/
+    py/
+  scratch/
+  README.md
+  Makefile
